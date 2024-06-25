@@ -2,13 +2,13 @@
 
 ```javascript
 const gianmarcoIncredibleDev = {
-  firstName: 'Gianmarco'
+  firstName: 'Gianmarco',
   lastName: 'Ricciarelli',
   pronouns: ['he', 'him'],
   whoAmI() {
     console.log(`I'm a Front-End Developer from Italy 🍕`);
   }
-  langs: ['javascript', typescript'],
+  langs: ['javascript', 'typescript'],
   frameworks: ['react', 'vue', 'angular/angular(js)'],
 }
 ```
