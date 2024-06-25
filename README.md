@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```javascript
+const gianmarcoIncredibleDev = {
+  firstName: 'Gianmarco'
+  lastName: 'Ricciarelli',
+}
+```
+
 Frontend Mentor Challenges:
 - [Interactive Comment Section](https://github.com/gianmarcoricciarelli/interactive-comments-section)
 - [Ecommerce Product Page](https://github.com/gianmarcoricciarelli/ecommerce-product-page)
