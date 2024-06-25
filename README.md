@@ -4,6 +4,10 @@
 const gianmarcoIncredibleDev = {
   firstName: 'Gianmarco'
   lastName: 'Ricciarelli',
+  pronouns: ['he', 'him'],
+  whoAmI() {
+    console.log(`I'm a Front-End Developer from Italy 🍕`)
+  }
 }
 ```
 
