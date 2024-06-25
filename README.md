@@ -7,7 +7,7 @@ const gianmarcoIncredibleDev = {
   pronouns: ['he', 'him'],
   whoAmI() {
     console.log(`I'm a Front-End Developer from Italy 🍕`);
-  }
+  },
   langs: ['javascript', 'typescript'],
   frameworks: ['react', 'vue', 'angular/angular(js)'],
 }
