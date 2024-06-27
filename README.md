@@ -1,7 +1,16 @@
 ### Hi there 👋
 
 ```typescript
-const gianmarcoIncredibleDev = {
+interface IncredibleDev {
+  firstName: string;
+  lastName: string;
+  pronouns: string[];
+  whoAmI: () =>  void;
+  langs: string[];
+  frameworksAndLibraries: string[];
+}
+
+const gianmarcoIncredibleDev: IncredibleDev = {
   firstName: 'Gianmarco',
   lastName: 'Ricciarelli',
   pronouns: ['he', 'him'],
