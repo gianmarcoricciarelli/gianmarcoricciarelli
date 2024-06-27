@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```javascript
+```typescript
 const gianmarcoIncredibleDev = {
   firstName: 'Gianmarco',
   lastName: 'Ricciarelli',
@@ -8,8 +8,8 @@ const gianmarcoIncredibleDev = {
   whoAmI() {
     console.log(`I'm a Front-End Developer from Italy 🍕`);
   },
-  langs: ['javascript', 'typescript'],
-  frameworks: ['react', 'vue', 'angular/angular(js)'],
+  langs: ['javascript', 'typescript', 'css', 'scss', 'html'],
+  frameworksAndLibraries: ['react', 'vue', 'angular/angular(js)', 'tailwindcss'],
 }
 ```
 
