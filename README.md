@@ -5,7 +5,7 @@ interface IncredibleDev {
   firstName: string;
   lastName: string;
   pronouns: string[];
-  whoAmI: () =>  void;
+  whoAmI: () => void;
   langs: string[];
   frameworksAndLibraries: string[];
 }
