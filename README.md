@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ```typescript
 interface IncredibleDev {
@@ -22,9 +22,12 @@ const gianmarcoIncredibleDev: IncredibleDev = {
 }
 ```
 
-Frontend Mentor Challenges:
+### Frontend Mentor Challenges:
 - [Interactive Comment Section](https://github.com/gianmarcoricciarelli/interactive-comments-section)
 - [Ecommerce Product Page](https://github.com/gianmarcoricciarelli/ecommerce-product-page)
 - [Multi Step Form](https://github.com/gianmarcoricciarelli/multi-step-form)
+
+### Dotfiles and such:
+- [NVim](https://github.com/gianmarcoricciarelli/my-nvim)
 
 [![Languages I ❤️ the most](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmarcoricciarelli&theme=gruvbox&layout=compact)](https://github.com/gianmarcoricciarelli/github-readme-stats)
