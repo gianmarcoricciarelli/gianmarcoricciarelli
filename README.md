@@ -29,6 +29,7 @@ const gianmarcoIncredibleDev: IncredibleDev = {
 
 ### Dotfiles and such
 - [NVim](https://github.com/gianmarcoricciarelli/my-nvim)
+- [.config](https://github.com/gianmarcoricciarelli/my-configs)
 
 ### Some stats
 [![Languages I ❤️ the most](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmarcoricciarelli&theme=gruvbox&layout=compact)](https://github.com/gianmarcoricciarelli/github-readme-stats)
